@@ -1,0 +1,10 @@
+Flask
+transformers
+torch
+scikit-learn
+python-dotenv
+langchain_community
+langchain_aws
+flask_cors
+cors
+joblib
